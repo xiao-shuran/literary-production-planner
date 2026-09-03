@@ -1,4 +1,0 @@
-interface:
-  display_name: "Literary Production Planner"
-  short_description: "Adapt literature into flexible production plans"
-  default_prompt: "Use $literary-production-planner to turn a literary work into a performance plan."
