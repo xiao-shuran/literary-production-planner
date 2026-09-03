@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literary Production Planner"
+  short_description: "Portable literary adaptation and production planning"
+  default_prompt: "Use $literary-production-planner to turn a literary work into a medium-specific production plan."
